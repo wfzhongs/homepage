@@ -85,7 +85,7 @@ author:
   bio              : "Associate Professor with School of Automation, GDUT"
   location         : # "School of Automation, GDUT"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=r7pntbUAAAAJ"
   email            : "wfzhongs@gdut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
