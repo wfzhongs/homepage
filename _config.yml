@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weifeng Zhong (钟伟锋)"
+  name             : "Weifeng Zhong"
   avatar           : "profile.png"
-  bio              : "Associate Professor"
-  location         : "School of Automation, \n GDUT"
+  bio              : "Associate Professor with School of Automation, GDUT"
+  location         : # "School of Automation, GDUT"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=r7pntbUAAAAJ"
